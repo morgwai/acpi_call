@@ -1,0 +1,5 @@
+acpi-call (1.1.0-0ubuntu0morgwai1) saucy; urgency=low
+
+  * Initial release.
+
+ -- Piotr Morgwai Kotarbinski (launchpad related address) <launchpad@morgwai.pl>  Mon, 19 May 2014 20:17:06 +0700
