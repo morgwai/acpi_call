@@ -3,7 +3,13 @@ Upstream-Name: acpi_call
 Source: https://github.com/mkottman/acpi_call
 
 Files: *
-Copyright: 2010 Michal Kottman
+Copyright: 2010 Michal Kottman <michal.kottman@gmail.com>
+License: GPL-3.0+
+
+Files: debian/*
+Copyright: 2014 Piotr Morgwai Kotarbinski (launchpad related address) <launchpad@morgwai.pl>
+License: GPL-2.0+
+
 License: GPL-3.0+
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
@@ -21,8 +27,6 @@ License: GPL-3.0+
  On Debian systems, the complete text of the GNU General
  Public License version 3 can be found in "/usr/share/common-licenses/GPL-3".
 
-Files: debian/*
-Copyright: 2014 Piotr Morgwai Kotarbinski <launchpad@morgwai.pl>
 License: GPL-2.0+
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
