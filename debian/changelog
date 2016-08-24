@@ -1,3 +1,11 @@
+acpi-call (1.1.0-0ubuntu0morgwai2) trusty; urgency=low
+
+  * Added patch to fix compilation on kernels >=3.17
+    (https://github.com/mkottman/acpi_call/issues/51)
+  * Some tiny changes to debian/copyright
+
+ -- Piotr Morgwai Kotarbinski (FOSS related) <launchpad@morgwai.pl>  Thu, 25 Aug 2016 02:57:46 +0700
+
 acpi-call (1.1.0-0ubuntu0morgwai1) saucy; urgency=low
 
   * Initial release.
